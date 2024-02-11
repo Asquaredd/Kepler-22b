@@ -1,4 +1,4 @@
-# Servo Controller with Live Webcam -Kepler22b
+# Servo Controller with Live Webcam 
 
 ## Aman Adhikari
 
