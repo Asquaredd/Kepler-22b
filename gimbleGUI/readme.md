@@ -50,7 +50,7 @@
 ![alt text](/gimbleGUI/images/image-6.png)
 
 
-**---Everything Else is PySide6, Amazing--**
+**---Everything Else is PySide6(GUI), Amazing--**
 ![alt text](/gimbleGUI/images/image-11.png)
 ![alt text](/gimbleGUI/images/image-12.png)
 
