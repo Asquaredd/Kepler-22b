@@ -9,12 +9,12 @@
   <li>OpenCV image processing and tracking</li>
 </ol>
 
-![alt text](pantilt.gif)
+![alt text](/pantilt.gif)
 
-![alt text](image.png)
+![alt text](/skyFieldAPI/image.png)
 *OPEN CV- Ex. Hand and face tracking ex*
 
-![alt text](image-9.png)
+![alt text](/image-9.png)
 ![alt text](image-10.png)
 
 *OPEN CV- Ex. StarDetection*
