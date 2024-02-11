@@ -30,6 +30,7 @@
 # How it works
 
 * Serial Monitor with Microcontroller(Arduino Nano in this ex.)
+
 ![alt text](/gimbleGUI/images/image-4.png)
 ![alt text](/gimbleGUI/images/image-8.png) 
 *v2 with gyroscope module W.I.P*
