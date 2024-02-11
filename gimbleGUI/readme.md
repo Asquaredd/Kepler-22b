@@ -2,7 +2,6 @@
 
 ## Aman Adhikari
 
-## WHAT IT DOES
 -------------
 <ol>
   <li>Controller for 'X' & 'Y' servos</li>
@@ -13,7 +12,12 @@
 ![alt text](pantilt.gif)
 
 ![alt text](image.png)
-*OPEN CV- HAND & FACE TRACKING EXAMPLE*
+*OPEN CV- Ex. Hand and face tracking ex*
+
+![alt text](image-9.png)
+![alt text](image-10.png)
+
+*OPEN CV- Ex. StarDetection*
 
 ## Current Implementations
 * # PySide6
@@ -25,16 +29,27 @@
 
 # How it works
 
-* Serial Monitor with Microcontroller(Arduino Nano in my example)
+* Serial Monitor with Microcontroller(Arduino Nano in this ex.)
 ![alt text](image-4.png)
-*embedded arduino code*
+![alt text](image-8.png) 
+*v2 with gyroscope module W.I.P*
+
+
+
+*--embedded arduino code--*
 ![alt text](image-5.png)
 
 
-**PythonScript to communicate with microcontroller**
+**---PythonScript to communicate with microcontroller--**
 
 ![alt text](image-7.png)
 
 
+
 ![alt text](image-6.png)
+
+
+**---Everything Else is PySide6, Amazing--**
+![alt text](image-11.png)
+![alt text](image-12.png)
 
